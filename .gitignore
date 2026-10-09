@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.tmp/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.local
+npm-debug.log*
+.cert/
